@@ -1,0 +1,51 @@
+#rectangle14{
+    position: absolute;
+    width: 1070px;
+    height: 942px;
+    left: 850px;
+    top: 0px;
+
+    background: #D3D1E9;
+}
+#rectangle14 img{
+    position: absolute;
+    width: 419px;
+    height: 662px;
+    left: 300px;
+    top: 232px;
+}
+#club{
+    position: absolute;
+    width: 16.6px;
+    height: 16.6px;
+    left: 860px;
+}
+.slider{
+    left: 1700px;
+}
+#rectangle15{
+    position: absolute;
+    width: 192px;
+    height: 94px;
+    left: 180px;
+    top: 781px;
+
+    background: #CE0002;
+    z-index: 120;
+}
+#rectangle15 p{
+    width: 150px;
+    height: 54px;
+    left: 230px;
+    top: 25px;
+
+    padding-top: 20px;
+    padding-left: 20px;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+}

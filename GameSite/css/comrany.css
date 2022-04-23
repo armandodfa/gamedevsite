@@ -1,0 +1,218 @@
+#rectangle12{
+    position: absolute;
+    width: 1922px;
+    height: 1073px;
+    left: -2px;
+    top: 0px;
+
+    background: #FAFAFA;
+}
+#rectangle13{
+    position: absolute;
+    width: 1070px;
+    height: 942px;
+    left: 850px;
+    top: 0px;
+
+    background: #FFEE2F;
+}
+#group65{
+    position: absolute;
+    width: 32px;
+    height: 282px;
+    left: 89px;
+    top: 396px;
+    z-index: 120;
+}
+#group65 li{
+    padding-top: 15px;
+}
+#group77{
+    position: absolute;
+    width: 609px;
+    height: 362px;
+    left: 185px;
+    top: 356px;
+    z-index: 150;
+}
+#group77 h1{
+    position: absolute;
+    width: 603px;
+    height: 85px;
+    left: 5px;
+    top: 2px;
+
+    font-family: Zona Pro;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 72px;
+    line-height: 85px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    color: #000000;
+}
+#group77 p{
+    position: absolute;
+    width: 609px;
+    height: 240px;
+    left: 5px;
+    top: 100px;
+
+    font-family: Akrobat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #000000;
+}
+#group_emodji{
+    position: absolute;
+    width: 518px;
+    height: 536px;
+    left: 149px;
+    top: 290px;
+    right: 403px;
+}
+#icon1{
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    left: 15px;
+    top: 5px;
+
+    background-image: url(../img/icon1.png);
+}
+#icon2{
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    left: 400px;
+    top: 5px;
+
+    background-image: url(../img/icon1.png);
+}
+#icon3{
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    left: 15px;
+    top: 300px;
+
+    background-image: url(../img/icon1.png);
+
+}
+#icon4{
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    left: 400px;
+    top: 300px;
+
+    background-image: url(../img/icon1.png);
+
+}
+#group_emodji img{
+    position: absolute;
+    width: 82px;
+    height: 93px;
+    left: 31px;
+    top: 49px;
+}
+#group_emodji h1{
+    position: absolute;
+    width: 130px;
+    height: 55px;
+    left: 5px;
+    top: 170px;
+
+    font-family: Akrobat;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 55px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+#group_emodji p{
+    position: absolute;
+    width: 237px;
+    height: 30px;
+    left: 5px;
+    top: 220px;
+
+    font-family: Akrobat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    color: #938700;
+}
+.slider{
+    position: absolute;
+    width: 131.3px;
+    height: 56px;
+    right: 120px;
+    top: 541px;
+}
+#slide1{
+    position: absolute;
+    width: 148px;
+    height: 24px;
+    left: 0px;
+    top: -24px;
+
+    visibility: hidden;
+
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: right;
+    text-transform: uppercase;
+
+    color: #646464;
+}
+#slide2{
+    position: absolute;
+    width: 148px;
+    height: 24px;
+    left: 0px;
+    top: 0px;
+
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: right;
+    text-transform: uppercase;
+
+    color: #646464;
+}
+#cub1{
+    position: absolute;
+    width: 16.6px;
+    height: 16.6px;
+    left: 1000px;
+    top: 513px;
+
+    background: #CE0002;
+}
+#cub2{
+    position: absolute;
+    width: 16.6px;
+    height: 16.6px;
+    left: 1000px;
+    top: 544.7px;
+
+    background: #000000;
+}

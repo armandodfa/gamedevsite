@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../about"
+		},
+		{
+			"path": "../games"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../img"
+		},
+		{
+			"path": "../contacts"
+		},
+		{
+			"path": "../news"
+		},
+		{
+			"path": "../careers"
+		}
+	]
+}
